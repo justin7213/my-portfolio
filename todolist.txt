@@ -1,0 +1,19 @@
+✓
+PRIORITY
+- landpage half
+- navbar okay
+- footer okay
+LATER
+- Introduction
+=whoami nice
+=hobbies nice
+- Skills
+=design
+=code
+=(make space for more skills)
+- Portfolio
+=design
+=code
+=(make space for more skills
+
+half - okay - nice
